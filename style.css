@@ -1,0 +1,20 @@
+body {
+    transition: 1s;
+}
+.body_button_sec {
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+
+.color_name {
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+
+.container {
+    transition: 1s;
+}
